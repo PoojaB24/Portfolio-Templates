@@ -4,6 +4,8 @@ Aurora Circuit is a **modern, fully responsive portfolio template** for develope
 
 It blends soft glows, rounded cards, and subtle circuit-like borders to create a professional layout that still feels friendly and approachable.
 
+  <h2> ✨ Creator: <a href="https://github.com/PoojaB24" target="_blank"><kbd><b>@Pooja</b></kbd></a> 🔥 mind behind this template! </h2>
+
 ---
 
 ## 🌌 Theme Concept & Brand Story
