@@ -120,6 +120,15 @@ nav a:hover {
     color: var(--color-teal-rose);
 }
 
+#creative .section-card:nth-child(4) {
+    border-block: 5px solid var(--color-aurora-circuit);
+    box-shadow: 0 4px 12px var(--color-aurora-circuit);
+}
+
+#creative .section-card:nth-child(4) .section-link {
+    color: var(--color-aurora-circuit);
+}
+
 /* Nature Section Cards */
 #nature .section-card:nth-child(1) {
     border-block: 5px solid var(--color-nature-canvas);

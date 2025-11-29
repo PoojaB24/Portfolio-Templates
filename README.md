@@ -296,6 +296,13 @@ All contributions are appreciated! Want to contribute? Check out:
       <br />💻 Maintainer
     </td>
     <td align="center">
+  <a href="https://github.com/PoojaB24">
+    <img src="https://avatars.githubusercontent.com/u/118657278?v=4" width="100px;" alt="Pooja B"/>
+    <br /><sub><b>Pooja B</b></sub>
+  </a>
+  <br />🌌 Aurora Circuit
+</td>
+    <td align="center">
       <a href="https://github.com/username">
         <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="100px;" alt="Contributor Name"/>
         <br /><sub><b>Contributor Name</b></sub>
