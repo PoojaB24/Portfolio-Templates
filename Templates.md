@@ -135,6 +135,27 @@ A delicate and tranquil portfolio template crafted with soft teals, whispered pi
 
 ---
 
+## 🌌 Aurora Circuit – Futuristic Calm Portfolio Template [`Aurora_Circuit`](Aurora_Circuit)
+
+A clean, modern, and quietly futuristic portfolio template crafted with soft blues, gentle glows, and precise grid layouts. Perfect for developers and designers who prefer a calm, professional, and tech-forward aesthetic.
+
+🎨 **Color Palette Highlights** (see [`Aurora_Circuit/css/variables.css`](Aurora_Circuit/css/variables.css)):
+
+### **Light Theme**
+
+* `--color-bg`: `#f4f5fb` – Misty soft background
+* `--color-surface`: `#ffffff` – Clean elevated surfaces
+* `--color-surface-alt`: `#eef1fb` – Cool section highlight
+* `--color-text`: `#0f172a` – Deep, clear content text
+* `--color-muted`: `#6b7280` – Subtle muted labels
+* `--color-primary`: `#2563eb` – Electric blue accent
+
+🔗 [Live Demo](https://madhurimarawat.github.io/Portfolio-Templates/Aurora_Circuit)
+
+📁 Visit folder: [`Aurora_Circuit`](Aurora_Circuit)
+
+---
+
 Hope you enjoyed exploring the templates and portfolios! Each one includes thoughtful comments and detailed instructions to help you get started with ease.
 
 > [!NOTE]
